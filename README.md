@@ -2,6 +2,16 @@
 
 Create 3D isometric illustrations using a simple 2D grid interface.
 
+## Screenshots
+
+### Desktop
+
+![Desktop View](public/desktop.png)
+
+### Mobile
+
+![Mobile View](public/mobile.png)
+
 ## Features
 
 - Interactive 20×20 grid with click and drag support
